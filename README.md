@@ -37,7 +37,7 @@ This repository showcases my learning journey through the Deep Learning Artifici
 In Module 13, I developed a student learning companion AI Agent designed to assist students with coding and learning support. This project integrates concepts from earlier modules and showcases practical application of AI in education.
 
 
-## 💡 Reflections
+## Reflections
 
 This course has deepened my understanding of deep learning, from foundational neural networks to advanced generative models. The hands-on assignments and final project helped me apply theoretical knowledge in meaningful ways.
 
